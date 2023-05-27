@@ -1,4 +1,4 @@
-# touristattractions
+# tourist attractions
 Tourist Attractions website provides a list of attractions in Saudi Arabia. A user can add a city and an attraction. Once a user clicked on City Details, it will show a list of all its attractions.  
 
 <img width="954" alt="list_attraction" src="https://github.com/SARAAYDH/tourist_attractions/assets/35547130/2b5cca06-a59c-42ad-9ae5-3e897db62d39">
